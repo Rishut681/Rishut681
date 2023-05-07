@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishut681
-- 👀 I’m interested in learning new things and about latest technology.
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in learning abot web development and about latest technology.
+- 🌱 I’m currently a student enrolled for B.Tech. program at DCE
 - 📫 How to reach me: email=rishut681@gmail.com 
 
 <!---
