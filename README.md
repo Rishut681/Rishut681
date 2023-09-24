@@ -1,9 +1,23 @@
-- 👋 Hi, I’m @Rishut681
-- 👀 I’m interested in learning abot web development and about latest technology.
-- 🌱 I’m currently a student enrolled for B.Tech. program at DCE
-- 📫 How to reach me: email=rishut681@gmail.com 
+Hello,
+I'm Rishu, an aspiring Computer Science student with a burning passion for exploring the captivating world of technology. Currently pursuing my Bachelor's in Computer Science, I'm diving deep into the fascinating realms of algorithms, coding, and software development. 
 
-<!---
-Rishut681/Rishut681 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+📚 Education: I'm currently pursuing my Bachelor's in Computer Science.
+💻 Interests: I'm deeply passionate about web development, Artificial Intelligence, and contributing to open-source projects.
+🌐 Aspirations: I'm always eager to explore new opportunities, innovate, and push the boundaries of what's possible in the digital world.
+
+Tech Stack
+Here are some of the technologies and programming languages I'm familiar with:
+
+HTML/CSS
+JavaScript
+Python
+C++
+Git/GitHub
+
+How to Reach Me
+Feel free to reach out to me if you have any questions, collaboration ideas, or just want to connect. You can reach me via email at rishut681@gmail.com.
+
+Let's connect and explore the ever-evolving world of technology together!
+
+Connect with me on LinkedIn:https://www.linkedin.com/in/rishu-raj-322637253 | Twitter:rishut681 | Follow me on GitHub
