@@ -1,39 +1,192 @@
-# 💫 About Me:
-### 👋Hi, I’m Rishu Raj — a Computer Science student (Batch 2026) passionate about building scalable and impactful web applications.<br><br>
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1120,55:1E3A8A,100:0EA5E9&section=header&text=Rishu%20Raj&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Technical%20Analyst%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Automation%20Builder&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Rishu Raj — Technical Analyst, Full-Stack Engineer, Automation Builder" />
+</p>
 
-# 🚀 What I Do
-### ● Full-Stack Development with MERN (MongoDB, Express.js, React.js, Node.js<br>● Exploring Next.js, TypeScript, and AI integrations<br>● Solving problems with clean code, logic, and creativity<br><br>
+<p align="center">
+  <a href="https://itsrishu.me">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+turn+messy+operations+into+clean+software.;Requirements+%E2%86%92+Data+flows+%E2%86%92+APIs+%E2%86%92+Production.;Secure+by+default.+Automated+where+it+counts." alt="Typing intro" />
+  </a>
+</p>
 
-# 📌 Notable Projects
-### 🛰️ Accialert – Smart city surveillance system (crime detection, traffic, infrastructure).<br>🛒 E-commerce MERN App – Full-stack shopping platform with authentication & cart.<br>💰 Crypto Dashboard – Real-time cryptocurrency tracker (TypeScript + APIs).<br>🌐 Portfolio Website – Showcasing my projects and skills.<br><br>
+<p align="center">
+  <a href="https://itsrishu.me"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rishu-raj-322637253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Rishu-tripzygo"><img src="https://img.shields.io/badge/Professional_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Professional GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rishut681&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-# 🌱 Currently Learning
-### ● System Design Basics<br>● Scalable Web Architectures<br>● Cloud & Deployment<br><br>
+<br />
 
-# 
-# ✨ “Code is not just about syntax, it’s about solving real-world problems with creativity.”
-<br>
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishut681/Rishut681/output/github-snake.svg" />
+  <img align="right" width="340" src="https://raw.githubusercontent.com/Rishut681/Rishut681/output/github-snake-dark.svg" alt="" />
+</picture>
 
-# 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ZvU2J7gq) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishu_t681) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishu-raj-322637253) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rishut681?s=09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishut681@gmail.com) 
+## About me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rishut681&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rishut681&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishut681&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I sit where **business problems** meet **engineering**. I start by understanding how work actually happens — who does what, where data moves, where things break — and then ship software that fixes it: typed APIs, clean dashboards, reliable automations, and deployments that don't need babysitting.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rishut681&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+```ts
+const rishu = {
+  role:      ["Technical Analyst", "Full-Stack Engineer", "Automation Builder"],
+  thinksIn:  ["workflows", "data contracts", "failure paths"],
+  ships:     ["APIs", "dashboards", "integrations", "background jobs"],
+  principle: "Secure by default. Boring in production.",
+};
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rishut681&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br clear="right" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rishut681&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ═══════════════════════════ WHAT I DO ═══════════════════════════ -->
+## What I do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Technical analysis</h3>
+      Translate business workflows into clear requirements, data models, integration contracts, and realistic delivery plans.
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Full-stack engineering</h3>
+      Responsive interfaces, backend APIs, authentication, database workflows, and production deployments — end to end.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔁 Automation & data</h3>
+      Connect services with Python and n8n, remove repetitive work, and turn operational data into dashboards people actually use.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Secure delivery</h3>
+      Input validation, protected sessions, tenant isolation, server-side secrets, and tested failure paths — built in, not bolted on.
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## Featured work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 CA Firm · Practice Desk</h3>
+      <p>Multi-tenant operations dashboard for clients, compliance, documents, leads, invoices, and messaging automation.</p>
+      <p><sub><b>Highlights</b> — secure sessions · tenant isolation · validated API contracts · automated checks</sub></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+        <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+      </p>
+      <a href="https://github.com/Rishu-tripzygo/CA_Firm_Automation"><b>Repository →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧳 Wandrly</h3>
+      <p>Travel companion for collaborative trip planning, mapped place lists, custom organization, and travel journals.</p>
+      <p><sub><b>Highlights</b> — product engineering · collaboration workflows · travel tech</sub></p>
+      <p>
+        <img src="https://img.shields.io/badge/Product-0EA5E9?style=flat-square" alt="Product" />
+        <img src="https://img.shields.io/badge/Travel_Tech-1E3A8A?style=flat-square" alt="Travel Tech" />
+        <img src="https://img.shields.io/badge/Collaboration-6366F1?style=flat-square" alt="Collaboration" />
+      </p>
+      <a href="https://wandrly.live/"><b>Live product →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✅ TaskRelay</h3>
+      <p>Workspace-first task management with project workflows, approvals, team invitations, Telegram reminders, and background jobs.</p>
+      <p><sub><b>Highlights</b> — approvals flow · invites · scheduled jobs · bot notifications</sub></p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegraf" />
+      </p>
+      <a href="https://github.com/Rishut681/task_relay"><b>Repository</b></a> · <a href="https://task-relay-bay.vercel.app/"><b>Live →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,prisma,postgres,mongodb,tailwind,git,github,githubactions,vercel,netlify&perline=8" alt="Tech stack icons" />
+</p>
+
+<div align="center">
+
+| Layer | Tools |
+| :-- | :-- |
+| **Analysis** | Requirements · Process mapping · API contracts · Data flows |
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **Backend** | Node.js · Express · REST APIs · Authentication |
+| **Data** | PostgreSQL · MongoDB · Prisma · Google Sheets · Reporting |
+| **Automation** | Python · n8n · Telegram bots · Third-party integrations |
+| **Delivery** | Git · GitHub Actions · Vercel · Netlify · Testing |
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+## GitHub at a glance
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishut681/Rishut681/main/profile-summary-card-output/github/0-profile-details.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Rishut681/Rishut681/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishut681/Rishut681/main/profile-summary-card-output/github/3-stats.svg" />
+    <img height="180" src="https://raw.githubusercontent.com/Rishut681/Rishut681/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishut681/Rishut681/main/profile-summary-card-output/github/2-most-commit-language.svg" />
+    <img height="180" src="https://raw.githubusercontent.com/Rishut681/Rishut681/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rishut681&hide_border=true&background=00000000&ring=0EA5E9&fire=0EA5E9&currStreakLabel=1E3A8A&currStreakNum=0F172A&sideNums=0F172A&sideLabels=1E3A8A&dates=475569&stroke=CBD5E1" />
+    <img src="https://streak-stats.demolab.com?user=Rishut681&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=38BDF8&dates=8B949E&stroke=30363D" alt="Contribution streak" />
+  </picture>
+</p>
+
+> [!NOTE]
+> Client and organization work lives separately from my personal projects. Public professional contributions are on **[@Rishu-tripzygo](https://github.com/Rishu-tripzygo)** — private repositories stay private.
+
+---
+
+<!-- ═══════════════════════════ FOCUS ═══════════════════════════ -->
+## Currently focused on
+
+- 🔧 Designing **reliable automation** for real business workflows
+- 🧱 Building **secure, scalable TypeScript** applications
+- 📡 Leveling up in **system design, observability, and deployment**
+
+---
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<div align="center">
+
+### Have a messy operational problem? Let's build the fix.
+
+<a href="https://www.linkedin.com/in/rishu-raj-322637253/"><img src="https://img.shields.io/badge/Let's_talk_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/Rishut681?tab=repositories"><img src="https://img.shields.io/badge/Browse_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0EA5E9,45:1E3A8A,100:0B1120&section=footer" width="100%" alt="" />
